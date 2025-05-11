@@ -80,7 +80,7 @@ export default function FuturisticHomepage() {
         <div className="w-full md:w-1/2 space-y-6 mb-12 md:mb-0">
           <h1 className="text-4xl md:text-6xl font-bold leading-tight">
             <span className="inline-block bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
-              Payment-module
+              QUANTUM Z
             </span>
             <span className="block mt-2">Holographic Display</span>
           </h1>
@@ -174,7 +174,7 @@ export default function FuturisticHomepage() {
               {/* Placeholder product - in a real app, use a proper product image */}
               <div className="transform -rotate-12 transition-transform hover:rotate-0 duration-700">
                 <img 
-                  src="/product.png" 
+                  src="/api/placeholder/400/400" 
                   alt="Quantum Z Holographic Display" 
                   className="w-48 h-48 object-contain drop-shadow-2xl filter brightness-110" 
                 />
